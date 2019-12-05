@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<!-- Required meta tags -->					
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" href= "css/styles.css">
+	<!-- Bootstrap CSS -->
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet"> 
+	<link rel="stylesheet" href="file:///C|/Users/David F Lopez Mendez/Documents/Fall 2019/Internship/Xanthocanna/style.css">
+
+
+<title>Index</title>
+</head>
+
+<body id="home">
+	
+	<!-- Jumbo -->
+	<section class="jumbotron ">
+		<div class="container text-sm-center">
+			<h1 class="display-2"> Xanthocanna</h1>
+			<p><strong>Advanced Phytobiootic Therapies</strong></p>        
+		</div>
+		
+		<!-- Nav -->
+	<nav class="navbar navbar-expand-md navbar-light bg-light" >
+    <div class="container">
+			<ul class="collapse navbar-collapse justify-content-lg-center">
+				<li class>
+					<a class="nav-link" href="#home">Home</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#About">About Us</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#delivery">Delivery</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#schedule">Schedule</a>
+				</li>
+			</ul>
+		</div>
+		
+		</nav>
+	<!-- Nav End -->
+	
+	</section>
+	<!-- Jumbo end -->
+	<div id="tiledBackground.">
+	</div>
+	
+</body>
+</html>

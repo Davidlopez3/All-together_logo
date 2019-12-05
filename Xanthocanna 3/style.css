@@ -1,0 +1,13 @@
+h1{
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+    border-bottom-style: groove;
+}	
+
+body  {
+ background-clip: content-box;
+  background-image: radial-gradient(circle,yellow, green);
+}
+nav{
+	
+	border-color: #FFCE00;
+}
